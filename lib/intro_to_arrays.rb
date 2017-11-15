@@ -6,6 +6,6 @@ def array_with_two_elements
   arr = ["burgers","pizza"]
 end
 
-def first_element(element)
-  array[element]
+def first_element(array)
+  array[0]
 end
